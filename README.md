@@ -50,12 +50,22 @@
 
 ### 📊 GitHub Stats
 
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=metinkuzey&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=metinkuzey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200"
+    alt="Metin Kuzey GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=metinkuzey&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats-eight.vercel.app?user=metinkuzey&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="Metin Kuzey GitHub Streak"
+  />
 </p>
 
 ---
