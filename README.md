@@ -60,7 +60,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=metinkuzey&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=metinkuzey&theme=tokyonight"
     alt="Metin Kuzey Top Languages"
   />
 </p>
